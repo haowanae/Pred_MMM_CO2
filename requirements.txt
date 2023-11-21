@@ -1,0 +1,10 @@
+pandas==1.2.4
+ttkbootstrap==1.10.1
+joblib==1.2.0
+numpy==1.21.0
+pillow==8.2.0
+scipy==1.6.2
+xgboost==1.6.1
+scikit-learn==0.24.1
+pyinstaller==6.2.0
+openpyxl==3.1.2
