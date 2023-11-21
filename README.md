@@ -2,7 +2,7 @@
 The software transforms the Stacking model trained to predict the CO2 performance of mixed matrix membrane materials into an interactive desktop application
 model loading：Choose the link to download the model according to your needs, and put it in the same directory as the other folders
 [baidu model Download](https://pan.baidu.com/s/1_EdVOuzgooXxzp42gO2XXg?pwd=e64n "baidu Download")
-[google model Download](http://www.google.com.hk "google model Download")
+[google model Download](https://drive.google.com/drive/folders/1yNaaLnRT4eSF_VBBlVbIf4eqNj_duuLx?usp=drive_link) "google model Download")
 
 For the convenience of users. Users do not need to install other auxiliary software, open main_MMM.exe to use.
 
