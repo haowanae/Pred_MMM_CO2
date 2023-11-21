@@ -32,5 +32,10 @@ For the convenience of users. Users do not need to install other auxiliary softw
      You need to download the entire model folder, which contains 15.pt files and a.pkl file.
      model loading：Choose the link to download the model according to your needs, and put it in the same directory as the other folders.
      
+     [baidu model Download](https://pan.baidu.com/s/1_EdVOuzgooXxzp42gO2XXg?pwd=e64n )
+
+     [google model Download](https://drive.google.com/drive/folders/1yNaaLnRT4eSF_VBBlVbIf4eqNj_duuLx?usp=drive_link) 
+
+     
 5- Result 
      The predicted result will be automatically generated and saved in Result/Batch_Predicted.xlsx.
