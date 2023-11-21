@@ -1,9 +1,9 @@
 ## Usage
 The software transforms the Stacking model trained to predict the CO2 performance of mixed matrix membrane materials into an interactive desktop application. 
 
-model loading：Choose the link to download the model according to your needs, and put it in the same directory as the other folders.
+model loading：You need to select one of the download methods to download the model folder, and then put it in the same directory as the other folders and.exe files.
 
-[baidu model Download](https://pan.baidu.com/s/1_EdVOuzgooXxzp42gO2XXg?pwd=e64n "baidu Download")
+[baidu model Download](https://pan.baidu.com/s/1_EdVOuzgooXxzp42gO2XXg?pwd=e64n )
 
 [google model Download](https://drive.google.com/drive/folders/1yNaaLnRT4eSF_VBBlVbIf4eqNj_duuLx?usp=drive_link) 
 
