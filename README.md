@@ -1,8 +1,10 @@
 ## Usage
 The software transforms the Stacking model trained to predict the CO2 performance of mixed matrix membrane materials into an interactive desktop application. 
 
-model loading：Choose the link to download the model according to your needs, and put it in the same directory as the other folders
+model loading：Choose the link to download the model according to your needs, and put it in the same directory as the other folders.
+
 [baidu model Download](https://pan.baidu.com/s/1_EdVOuzgooXxzp42gO2XXg?pwd=e64n "baidu Download")
+
 [google model Download](https://drive.google.com/drive/folders/1yNaaLnRT4eSF_VBBlVbIf4eqNj_duuLx?usp=drive_link) 
 
 For the convenience of users. Users do not need to install other auxiliary software, open main_MMM.exe to use.
@@ -10,6 +12,7 @@ For the convenience of users. Users do not need to install other auxiliary softw
 ## This software has two functions: 
 1- To calculate the comprehensive separation performance (TSP) of CO2/X, where X=(N2, O2, H2, CH4), and the permeability (P) of CO2 in a single crystal material.
    A single prediction result is displayed on the interface.
+   
 2- Batch calculation of CO2 performance in MMM (Mixed Matrix Membrane) materials.
    The predicted result will be saved in Result/Batch_Predicted.xlsx.
 
