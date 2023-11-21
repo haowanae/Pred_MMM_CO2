@@ -18,8 +18,7 @@ For the convenience of users. Users do not need to install other auxiliary softw
 
 ## This folder includes five folders:
 1- Code
-     1.1Stacking_code.py that has the code for the machine learning using Stacking (for more info please visit: https://scikit- 
-     learn.org/stable/modules/generated/sklearn.ensemble.StackingRegressor.html).  
+     1.1Stacking_code.py that has the code for the machine learning using Stacking (for more info please visit: https://scikit- learn.org/stable/modules/generated/sklearn.ensemble.StackingRegressor.html).  
      1.2.Predicted_MMM_CO2_code.py that has the code for a human-computer interactive interface software.
 
 2- Extrapolation_data
